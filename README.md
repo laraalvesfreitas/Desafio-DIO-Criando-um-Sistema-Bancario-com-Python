@@ -19,3 +19,7 @@ Essa operação deve listar todos os depósitos e saques realizados na conta. No
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 
 1500.45 = R$ 1500.45
+
+
+
+Obs = O código do desafio estava pré ponto e foram realizadas algumas melhorias como, retorno após o saque e depósito realizado com sucesso. 
